@@ -1,0 +1,11 @@
+Hoang Tien - 12/09/2020
+Completed full dynamic_reconfigureTutorials
+
+HOW TO RUN package: dynamic_tutorials
+1. source ~/test/common_ws/devel/setup.bash
+
+2. rosrun dynamic_tutorials dynamic_tutorials
+
+3. rosrun rqt_reconfigure rqt_reconfigure
+
+4. rosrun dynamic_tutorials client.py

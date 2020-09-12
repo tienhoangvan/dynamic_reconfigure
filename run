@@ -1,0 +1,7 @@
+source ~/test/common_ws/devel/setup.bash
+
+rosrun dynamic_tutorials dynamic_tutorials
+
+rosrun rqt_reconfigure rqt_reconfigure
+
+rosrun dynamic_tutorials client.py
