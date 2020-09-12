@@ -1,5 +1,6 @@
 Hoang Tien - 12/09/2020
-Completed full dynamic_reconfigureTutorials
+Completed full dynamic_reconfigure/Tutorials: 
+http://wiki.ros.org/dynamic_reconfigure/Tutorials
 
 HOW TO RUN package: dynamic_tutorials
 1. source ~/test/common_ws/devel/setup.bash
